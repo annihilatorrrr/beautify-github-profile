@@ -1607,6 +1607,17 @@ A simple badge to display your followers, stars, and repositories
 
 ![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=torvalds&show_username=true&theme=coal)
 
+### 99 . [git-bonsai](https://github.com/egorthinks/git-bonsai)
+
+🌳 Grow a one-of-a-kind pixel-art bonsai from your GitHub history. Deterministic and procedural: account age sets the trunk, streaks bloom sakura, burnout gaps leave deadwood scars, and your languages pick the species and colors. Ships as a GitHub Action (auto-updating GIF for your profile) and a zero-install [playground](https://egorthinks.github.io/git-bonsai/).
+
+📍 For example:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/egorthinks/git-bonsai/main/assets/bonsai-growth.gif" width="384" alt="A procedurally generated pixel-art bonsai growing from a seed" />
+</p>
+
+
 
 ### Outdated
 <details>
